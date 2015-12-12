@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Buscelona Nit</string>
+    <string name="hello_world">Hola mundo!</string>
+    <string name="menu_settings">Opcions</string>
+    <string name="title_activity_main">Buscelona nit</string>
+    <string name="N0">N0: Línea Circular</string>
+    <string name="N1">N1: Zona Franca - Roquetes</string>
+    <string name="N2">N2: L\'Hospitalet (Av. Carrilet) - Badalona (Vía Agusta)</string>
+	<string name="N3">"N3: Collblanc - Montcada i Reixac"</string>
+	<string name="N4">"N4: Vía Favència - Pl. Catalunya - Gran Vista"</string>
+	<string name="N5">"N5: Pl. Catalunya - Gran Vista"</string>
+	<string name="N6">"N6: BCN (Roquetes) - St. Coloma (Oliveres)"</string>
+	<string name="N7">"N7: Pl. Pedralbes - Pl. Llevant (Fòrum)"</string>
+	<string name="N8">"N8: Can caralleu - Sta. Coloma (Can Franquesa)"</string>
+	<string name="N9">"N9: Portal de la Pau - Tiana (Edith Llaurador)"</string>
+	<string name="N11">"N11: BCN (Pl.Catalunya) - BDN (H. Can Ruti)"</string>
+    
+
+</resources>
